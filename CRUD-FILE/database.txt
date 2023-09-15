@@ -1,0 +1,5 @@
+{'id': 1, 'title': 'sdfklj', 'price': 23498, 'categry': 'sdlfj'}
+{'id': 2, 'title': 'Aslkdfj', 'price': 987, 'categry': 'Sdfklj'}
+{'id': 3, 'title': 'sdflkjlkj', 'price': 23987, 'categry': 'sdflkj'}
+{'id': 4, 'title': 'sdlfj', 'price': 987, 'categry': 'sdlfkj'}
+Deleted product  id: 5
